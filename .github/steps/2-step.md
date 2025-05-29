@@ -1,31 +1,30 @@
-## Step 2: Customize your homepage
+## ステップ2: ホームページをカスタマイズする
 
-Good job! You turned on GitHub Pages! :tada:
+素晴らしい！GitHub Pages を有効にしましたね！ 🎉
 
-You can see the link to your website at the top of the [Pages](https://github.com/{{full_repo_name}}/settings/pages) section of your repository settings _(you may need to refresh it)_
+ウェブサイトへのリンクは、リポジトリ設定の [Pages](https://github.com/{{full_repo_name}}/settings/pages) セクションの上部に表示されています（更新が必要な場合があります）。
 
 > [!TIP]
-> Keep your GitHub Pages [website](https://{{login}}.github.io/{{repo_name}}/) open in a separate browser tab and keep it handy!
+> GitHub Pages の[ウェブサイト](https://{{login}}.github.io/{{repo_name}}/)を別のブラウザタブで開いたままにしておくと便利です！
 >
-> As you progress through this exercise, you'll see your changes reflected on your live site.
+> この演習を進めるにつれて、変更が実際のサイトに反映されるのを確認できます。
 
-### 📖 Theory: Customizing your homepage
+### 📖 理論: ホームページのカスタマイズ
 
-You can customize your homepage by adding content to  `index.md` file. As you commit it to the `main` branch your website will be updated to display your personalized content!
+`index.md` ファイルにコンテンツを追加することで、ホームページをカスタマイズできます。変更を `main` ブランチにコミットすると、ウェブサイトが更新され、パーソナライズされたコンテンツが表示されます！
 
-### ⌨️ Activity: Create your homepage
+### ⌨️ アクティビティ: ホームページを作成する
 
-1. Browse to the `index.md` file in the `main` branch.
-1. In the upper right corner, open the file editor.
-1. Type the content you want on your homepage. You can use Markdown formatting on this page.
-1. (optional) You can also modify `title:` or leave it as it is.
-1. Commit your changes to the `main` branch.
-1. As you commit your changes Mona will prepare the next step in this exercise!
-
+1. `main` ブランチの `index.md` ファイルに移動します。
+1. 右上隅にあるファイルエディタを開きます。
+1. ホームページに表示したいコンテンツを入力します。このページでは Markdown 形式を使用できます。
+1. (任意) `title:` を変更することも、そのままにしておくこともできます。
+1. 変更を `main` ブランチにコミットします。
+1. 変更をコミットすると、Mona がこの演習の次のステップを準備します！
 
 <details>
-<summary>Having trouble? 🤷</summary><br/>
+<summary>困ったときは？ 🤷</summary><br/>
 
-- Make sure you are editing the `index.md` file in the `main` branch.
+- `main` ブランチの `index.md` ファイルを編集していることを確認してください。
 
 </details>

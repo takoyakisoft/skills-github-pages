@@ -1,30 +1,26 @@
-## Step 1: Enable GitHub Pages
+## ステップ1: GitHub Pages を有効にする
 
-### 📖 Theory: What is GitHub Pages?
+### 📖 理論: GitHub Pages とは？
 
-GitHub Pages lets you turn your repository into a website. This is a great way to share your project, resume, portfolio, documentation, or even a blog with the world.
+GitHub Pages を使用すると、リポジトリをウェブサイトとして公開できます。これは、プロジェクト、履歴書、ポートフォリオ、ドキュメント、さらにはブログを世界と共有するための優れた方法です。
 
-When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+リポジトリで GitHub Pages を有効にすると、GitHub は `main` ブランチにあるコンテンツを取得し、その内容に基づいてウェブサイトを公開します。
 
 > [!NOTE]
-> Learn more in the [GitHub Pages documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages).
+> 詳細は [GitHub Pages のドキュメント](https://docs.github.com/ja/pages/getting-started-with-github-pages/about-github-pages) をご覧ください。
 
-### ⌨️ Activity: Enable GitHub Pages
+### ⌨️ アクティビティ: GitHub Pages を有効にする
 
-
-
-1. Open this repository in a new browser tab so you can work on the steps while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure **Deploy from a branch** is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-
-1. With GitHub Pages enabled Mona will be preparing the next step in this exercise!
-
+1. このタブで手順を読みながら作業できるように、新しいブラウザタブでこのリポジトリを開きます。
+1. リポジトリ名の下にある **Settings (設定)** をクリックします。
+1. **Code and automation (コードと自動化)** セクションの **Pages** をクリックします。
+1. **Source (ソース)** ドロップダウンメニューから **Deploy from a branch (ブランチからデプロイする)** が選択されていることを確認し、次に **Branch (ブランチ)** ドロップダウンメニューから `main` を選択します。
+1. **Save (保存)** ボタンをクリックします。
+1. GitHub Pages が有効になると、Mona がこの演習の次のステップを準備します！
 
 <details>
-<summary>Having trouble? 🤷</summary><br/>
+<summary>困ったときは？ 🤷</summary><br/>
 
-- Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
+- GitHub Pages をオンにすると、リポジトリのデプロイが作成されます。デプロイを待機している間、GitHub Actions が応答するまでに最大1分かかる場合があります。今後のステップは約20秒で完了しますが、このステップは時間がかかります。
 
 </details>

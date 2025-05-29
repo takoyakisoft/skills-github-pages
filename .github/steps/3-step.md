@@ -1,47 +1,46 @@
-## Step 3: Configure your site
+## ステップ3: サイトを設定する
 
-Nice work updating your home page :sparkles:
+ホームページの更新、お疲れ様でした ✨
 
-It's time we give it a little bit of **configuration** so it looks nice!
+サイトの見栄えを良くするために、少し**設定**を行いましょう！
 
-### 📖 Theory: Jekyll and \_config.yml
+### 📖 理論: Jekyll と \_config.yml
 
-Jekyll uses a file titled `_config.yml` to store settings for your site, your theme, and reusable content like your site title and GitHub handle. Learn more in the [Jekyll configuration documentation](https://jekyllrb.com/docs/configuration/).
+Jekyll は `_config.yml` というファイルを使用して、サイトの設定、テーマ、サイトタイトルや GitHub ハンドルなどの再利用可能なコンテンツを保存します。詳細は [Jekyll の設定ドキュメント](https://jekyllrb.com/docs/configuration/) をご覧ください。
 
-For this activity, we will use a blog-ready theme named "minima".
+このアクティビティでは、「minima」というブログ向けのテーマを使用します。
 
-### ⌨️ Activity: Configure your site
+### ⌨️ アクティビティ: サイトを設定する
 
-1. Browse to the `_config.yml` file in the `main` branch.
-1. In the upper right corner, open the file editor.
-1. Add a `theme:` set to **minima** so it shows in the `_config.yml` file as below:
+1. `main` ブランチの `_config.yml` ファイルに移動します。
+1. 右上隅にあるファイルエディタを開きます。
+1. 以下のように `_config.yml` ファイルに表示されるように、`theme:` を **minima** に設定して追加します。
 
    ```yml
    theme: minima
    ```
 
-1. (optional) You can modify the other configuration variables such as `title:`, `author:`, and `description:` to further customize your site.
+1. (任意) `title:`、`author:`、`description:` などの他の設定変数を変更して、サイトをさらにカスタマイズできます。
 
    <details>
-   <summary>Example </summary><br/>
+   <summary>例</summary><br/>
 
    ```yml
    theme: minima
-   title: {{ login }}'s personal blog
-   description: This is where I share cool stuff about my life
+   title: {{ login }} の個人的なブログ
+   description: ここでは私の人生に関するクールなことを共有します
    author: {{ login }}
    ```
 
    </details>
 
-1. Commit your changes to the `main` branch.
-1. As you commit your changes Mona will prepare the next step in this exercise!
-
+1. 変更を `main` ブランチにコミットします。
+1. 変更をコミットすると、Mona がこの演習の次のステップを準備します！
 
 <details>
-<summary>Having trouble? 🤷</summary><br/>
+<summary>困ったときは？ 🤷</summary><br/>
 
-- Make sure you are editing the `_config.yml` file in the `main` branch`.
-- Double-check your YAML formatting. Indentation and colons matter!
+- `main` ブランチの `_config.yml` ファイルを編集していることを確認してください。
+- YAML の書式を再確認してください。インデントとコロンが重要です！
 
 </details>
