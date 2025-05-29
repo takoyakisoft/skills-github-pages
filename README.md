@@ -1,15 +1,20 @@
-# GitHub Pages
+# Congratulations! :tada:
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+<img src="https://octodex.github.com/images/welcometocat.png" align="right" height="250px" />
 
-こんにちは、@takoyakisoft さん！
+Yay **takoyakisoft** you finished the exercise! Nice work :tada:
 
-モナです。演習の準備ができました。楽しんでくださいね！💚
+If you would like to retrace your steps, you can always revisit the exercise.
 
-これは自分のペースで進められるので、いつでも休憩してくださいね！☕️
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/takoyakisoft/skills-github-pages/issues/1)
 
-[![](https://img.shields.io/badge/演習に進む-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/takoyakisoft/skills-github-pages/issues/1)
+> [!TIP]
+> Mona won't grade you this time! 😉
 
----
 
-&copy; 2025 GitHub ・ [行動規範](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) ・ [MIT ライセンス](https://gh.io/mit)
+### Craving more? :raising_hand:
+
+Did you enjoy this practical style of learning? There's no better way to learn than building things, right?!
+
+Let's keep the momentum going! Head over to [GitHub Skills](https://skills.github.com) catalog to find another hands-on exercise. :rocket:
+
