@@ -43,8 +43,4 @@ title: 🎉✨ 私のブログへようこそ！ ✨🎉
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="300">
-</p>
-
 <h2 align="center">🎊 さあ、華やかなブログライフを始めよう！ 🎊</h2>
